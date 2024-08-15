@@ -8,3 +8,6 @@ Adicionalmente, se creó un jupyter notebook para visualizar los datos y ver com
 Todo lo anterior está basado en un entorno virtual creado especialmente para el proyecto. En este caso, se utilizaron las librerias de pandas, streamlit y plotly.
 
 
+## Para visualizar la aplicacion en Render:
+
+https://sprint6-25ap.onrender.com
