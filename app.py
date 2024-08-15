@@ -5,7 +5,7 @@ import plotly.express as px
 car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 st.header('Anuncio de ventas de Automóviles')
 
-st.write('Presiona el botón para construir un Histograma o para un gráfico de Dispersión')
+st.write('Presiona la opción para construir un Histograma o para un gráfico de Dispersión (puedes seleccionar ambas)')
 hist_checkbox = st.checkbox('Construir histograma') # crear un botón
 disp_checkbox = st.checkbox('Construir gráfico de Dispersion')
         
