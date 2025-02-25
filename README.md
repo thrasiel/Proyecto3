@@ -1,4 +1,4 @@
-# Proyecto Sprint6
+# Proyecto Sprint6 - Render / Stremlit / Plotly
 
 En este proyecto, se efectúa un pequeño análisis de un dataset de venta de vehículos.
 
